@@ -30,7 +30,7 @@
 						<img src="images/thanks.png" class="img-responsive" alt="">
 					</div>		
 					<div class="content">
-						<h2 class="text-center">Thank You For Contacting Us.</h2>
+						<h2 class="text-center">Thank You For Contacting Us User.</h2>
 						<p class="text-center">Your request has been submitted successfully. We do our best to get back to you within shortest time possible.</p>
 					</div>			
 				</div>
